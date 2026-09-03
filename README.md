@@ -24,10 +24,10 @@ I'm a **Full Stack Developer** focused on building responsive, scalable, and use
 
 ## 🌐 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syrax-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayanpatel68/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayanpatel68)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syraxdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayanpatel682003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syraxdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syraxdev69@gmail.com)
 
 ---
 
@@ -136,20 +136,6 @@ Custom Linux development environment focused on productivity and keyboard-driven
 - Development-focused Linux environment
 
 🔗 [GitHub Repository](https://github.com/syrax-dev/Arch-Hyprland-Dotfiles)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=syrax-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=syrax-dev&theme=dark&hide_border=true)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syrax-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
